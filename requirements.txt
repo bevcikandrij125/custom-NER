@@ -1,0 +1,6 @@
+tensorflow
+transformers
+pandas
+sklearn
+pandas
+tqdm
